@@ -1,0 +1,28 @@
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.csproj.AssemblyReference.cache
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer_Auto.Properties.Resources.resources
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.csproj.GenerateResource.cache
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.AssemblyInfoInputs.cache
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.AssemblyInfo.cs
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.csproj.CoreCompileInputs.cache
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\Dealer Auto.exe
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\Dealer Auto.deps.json
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\Dealer Auto.runtimeconfig.json
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\Dealer Auto.runtimeconfig.dev.json
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\Dealer Auto.dll
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\ref\Dealer Auto.dll
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\Dealer Auto.pdb
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.dll
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\ref\Dealer Auto.dll
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.pdb
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer Auto.genruntimeconfig.cache
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer_Auto.Form2.resources
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer_Auto.Properties.DBTextBox.resources
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vladv\source\repos\Dealer Auto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer_Auto.Form1.resources
+C:\Users\vladv\source\repos\Dealer Auto\obj\Debug\net5.0-windows\Dealer_Auto.Form3.resources
